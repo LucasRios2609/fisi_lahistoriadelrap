@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(fondo2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    font-family: Arial, sans-serif;
+}
+
+.contenedordetexto1 {
+    background-color: lightcoral;
+    color: whitesmoke;
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 90%;
+}
+
+.titulo {
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    text-decoration: underline;
+}
+
+.texto {
+    color: black;
+}
+
+.subtitulo {
+    text-decoration: underline;
+    font-size: x-large;
+    color: black;
+    text-align: center;
+}
+
+.tabla1 {
+    color: black;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.th1 ,.td1 {
+    border: 2px solid;
+    padding: 8px;
+    background-color: gray;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
