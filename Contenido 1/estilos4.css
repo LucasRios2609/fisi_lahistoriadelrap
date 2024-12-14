@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('kendrickvsdrake.png') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.7); 
+    padding: 20px;
+    max-width: 1200px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 3rem;
+    color: #FFD700; 
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+    margin-top: 0;
+}
+h2{
+    text-align: right;
+    font-size: medium;
+    color: pink;
+    margin-top: 0;
+}
